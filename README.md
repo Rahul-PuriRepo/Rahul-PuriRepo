@@ -8,23 +8,13 @@ I'm a Full Stack Developer passionate about building scalable web applications u
 
 ## 💻 Tech Stack
 
-**Frontend**
-- React
-- Next.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+**Frontend:** React, Next.js, JavaScript (ES6+), HTML5, CSS3
 
-**Backend**
-- Node.js
-- Express.js
+**Backend:** Node.js, Express.js
 
-**Database**
-- MongoDB Atlas
-- SQL
+**Database:** MongoDB Atlas, SQL
 
-**Tools**
-- Git & GitHub
+**Tools:** Git, GitHub
 
 ---
 
