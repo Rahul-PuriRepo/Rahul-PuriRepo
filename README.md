@@ -42,8 +42,8 @@ A full-stack Task Manager application built with React, Node.js, Express.js, and
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/Rahul-PuriRepo
-- LinkedIn: *(Add your LinkedIn URL here)*
+- 💼 LinkedIn: [Rahul Puri](https://www.linkedin.com/in/rahul-puri-668507338/)
+- 💻 GitHub: [Rahul-PuriRepo](https://github.com/Rahul-PuriRepo)
 
 ---
 
