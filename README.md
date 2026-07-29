@@ -2,7 +2,9 @@
 
 ## 🚀 Full Stack MERN Developer | Open to Work
 
-I'm a Full Stack Developer passionate about building scalable web applications using the MERN stack. I enjoy building responsive, user-friendly applications and continuously expanding my skills in modern web development.
+I'm a Full Stack MERN Developer passionate about building scalable, user-friendly web applications using modern JavaScript technologies.
+
+🎯 Interested in Full Stack Software Engineer opportunities focused on React, Node.js, Express.js, MongoDB, and Next.js.
 
 ---
 
@@ -21,20 +23,25 @@ I'm a Full Stack Developer passionate about building scalable web applications u
 ## 📌 Featured Projects
 
 ### 🚀 MERN Task Manager
-A full-stack task management application with CRUD operations, file uploads, and a responsive Material UI interface.
 
-- 🌐 Live Demo: https://task-manager-mern-beta-orpin.vercel.app/
-- 💻 GitHub: https://github.com/Rahul-PuriRepo/task-manager-mern
+A full-stack task management application with CRUD operations, file uploads, a responsive Material UI interface, and deployment using Vercel and Render.
+
+- 🌐 **Live Demo:** https://task-manager-mern-beta-orpin.vercel.app/
+- 💻 **GitHub:** https://github.com/Rahul-PuriRepo/task-manager-mern
 
 ### 🏨 ABI Hotel Booking
+
 A MERN-based hotel booking application featuring hotel listings, bookings, and a responsive user interface.
 
-- 💻 GitHub: https://github.com/Rahul-PuriRepo/abi-hotel-booking
+- 🌐 **Live Demo:** https://abi-hotel-booking-1.onrender.com/
+- 💻 **GitHub:** https://github.com/Rahul-PuriRepo/abi-hotel-booking
 
 ### 🛒 QKart
+
 A React-based e-commerce application with product browsing, search, authentication, and shopping cart functionality.
 
 ### ✈️ QTrip Dynamic
+
 A React travel booking application featuring dynamic search, filtering, and reservation management.
 
 ---
@@ -44,7 +51,7 @@ A React travel booking application featuring dynamic search, filtering, and rese
 - Advanced React
 - Next.js
 - Data Structures & Algorithms
-- AI/ML Fundamentals
+- System Design
 
 ---
 
