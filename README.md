@@ -1,20 +1,22 @@
 # Hi, I'm Rahul Puri 👋
 
-## 🚀 Full Stack MERN Developer | Open to Work
+## 🚀 Full Stack Developer | Backend-Focused | Open to Work
 
-I'm a Full Stack MERN Developer passionate about building scalable, user-friendly web applications using modern JavaScript technologies.
+I'm a Full Stack Developer focused on building scalable, maintainable web applications with **React.js, Node.js, Express.js, MongoDB, Next.js, JavaScript, and TypeScript**.
 
-🎯 Interested in Full Stack Software Engineer opportunities focused on React, Node.js, Express.js, MongoDB, and Next.js.
+🎯 Interested in **Full Stack, Backend, Node.js, MERN, and Full Stack + GenAI** opportunities, with a strong interest in backend development and API-driven applications.
 
 ---
 
 ## 💻 Tech Stack
 
-**Frontend:** React, Next.js, JavaScript (ES6+), HTML5, CSS3
+**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3
 
-**Backend:** Node.js, Express.js
+**Backend:** Node.js, Express.js, REST APIs
 
 **Database:** MongoDB Atlas, SQL
+
+**AI / GenAI:** Generative AI, RAG, LangChain, LLMs, Embeddings, Vector Search
 
 **Tools:** Git, GitHub
 
@@ -24,7 +26,7 @@ I'm a Full Stack MERN Developer passionate about building scalable, user-friendl
 
 ### 🚀 MERN Task Manager
 
-A full-stack task management application with CRUD operations, file uploads, a responsive Material UI interface, and deployment using Vercel and Render. Supports CRUD operations, file uploads, and responsive task management with a RESTful backend.
+A full-stack task management application with CRUD operations, file uploads, a responsive Material UI interface, and deployment using Vercel and Render. Includes a RESTful backend for task management.
 
 - 🌐 **Live Demo:** https://task-manager-mern-beta-orpin.vercel.app/
 - 💻 **GitHub:** https://github.com/Rahul-PuriRepo/task-manager-mern
@@ -35,6 +37,14 @@ A MERN-based hotel booking application featuring hotel listings, bookings, and a
 
 - 🌐 **Live Demo:** https://abi-hotel-booking-1.onrender.com/
 - 💻 **GitHub:** https://github.com/Rahul-PuriRepo/abi-hotel-booking
+
+### 💬 XChat
+
+A MERN-based chat application with user authentication, protected APIs, user search, room management, and MongoDB integration.
+
+### 📝 XBlog
+
+A MERN-based blogging application with authentication, post creation and retrieval, post updates, and likes using a RESTful Node.js/Express backend.
 
 ### 🛒 QKart
 
@@ -48,9 +58,12 @@ A React travel booking application featuring dynamic search, filtering, and rese
 
 ## 🌱 Currently Learning
 
-- Advanced React
-- Next.js
-- Data Structures & Algorithms
+- Generative AI
+- RAG pipelines
+- LLMs, embeddings, and vector search
+- LangChain
+- Advanced React & Next.js
+- TypeScript
 - System Design
 
 ---
