@@ -16,7 +16,7 @@ I'm a Full Stack Developer focused on building scalable, maintainable web applic
 
 **Database:** MongoDB Atlas, SQL
 
-**AI / GenAI:** Generative AI, RAG, LangChain, LLMs, Embeddings, Vector Search
+**AI / GenAI:** Generative AI, RAG, LangChain, LLMs, Embeddings, Vector Search,Function Calling, Tool Calling, CrewAI, AI Agents, Agent Orchestration
 
 **Tools:** Git, GitHub
 
